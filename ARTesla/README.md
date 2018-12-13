@@ -8,3 +8,5 @@ This activity demonstrates how to use an ARImageTarget to create an interactive 
 Note that for this Demo, instaed of the red logo above, we use the following image for the ARImageTarget. For testing you can display the image on your computer, but it's even more fun if you print out an A4 sized version and try the demo out with that.
 
 <img src="https://github.com/viromedia/virocore/blob/master/ARTesla/app/src/main/assets/logo.png">
+
+In order to run the app, make sure to get an API key from Viro developer portal and add it to the Manifest
